@@ -17,8 +17,7 @@ This is a template for quick-starting a ghūl language application project and d
   - GitHub [Codespaces](https://github.com/features/codespaces)
   - Windows 10 with [Docker Desktop](https://www.docker.com/products/docker-desktop) and the VSCode [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension 
   - Windows 10 with [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), configured to run Linux with a recent version of [Mono](https://www.mono-project.com/), plus the VSCode [Remote - WSL](https://marketplace.visualstudio.com/items?,itemName=ms-vscode-remote.remote-wsl) extension  
-  - Native Linux + Mono
-- Visual Studio Code
+  - Native Linux + Mono with [Docker Desktop](https://www.docker.com/products/docker-desktop) and the VSCode[Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension 
 
 ## Getting started with GitHub Codespaces
 If you have access to GitHub [Codespaces](https://github.com/features/codespaces) then you can clone this repository into a Codespace container and develop your application directly in the browser.
